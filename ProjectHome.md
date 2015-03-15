@@ -1,0 +1,1 @@
+Computer vision algorithms for parsing Manhattan environments from video sequences
